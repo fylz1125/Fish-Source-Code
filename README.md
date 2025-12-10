@@ -1,25 +1,21 @@
-# Game Fish for commercial businese
+# 疯狂捕鱼源码
 
-[中文文档](README_zh.md)
+## 本套代码仅供学习使用，任何商业行为与本人无关
+如果需要源码学习的可以联系我 19945639775(同微信)
 
-# Fish Game 
+- 客户端采用 Cocos Creator2.4.15开发，Typescript脚本编写
+- 服务端 C++
+- 后台管理端 ASP，C#
 
-This is a complete commercial-grade fishing game
+# 在线试玩地址：http://fish.game.apecube.com
 
-- client by Cocos Creator 2.4.15
+视频：
 
-- server by C++
-- Admin by Asp+C#
+部分截图：
 
-## live demo http://fish.game.apecube.com
-
-## video
-
-
-## screen shots
 ![主界面](screenshots/fish1.png)
 
-![主界面](screenshots/fish2.png)
+![主界面](screenshots/fhis2.png)
 
 ![主界面](screenshots/fish3.png)
 
@@ -27,6 +23,3 @@ This is a complete commercial-grade fishing game
 
 ![主界面](screenshots/fish5.png)
 
-# contacts 
-tel（wechat）：19945639775
-email：63858323@qq.com
