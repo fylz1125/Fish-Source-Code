@@ -10,7 +10,7 @@
 # 在线试玩地址：http://fish.game.apecube.com
 
 视频：
-
+[https://www.bilibili.com/video/BV1vGmhBaEdZ?t=38.8](https://www.bilibili.com/video/BV1vGmhBaEdZ?t=38.8)
 部分截图：
 
 ![主界面](screenshots/fish1.png)
