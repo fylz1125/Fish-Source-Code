@@ -2,21 +2,30 @@
 
 [中文文档](README_zh.md)
 
-# This code is for study
+# Fish Game 
 
-- client by Cocos Creator 2.2
+This is a complete commercial-grade fishing game
 
-- server by python
+- client by Cocos Creator 2.4.15
 
-## live demo http://fish.darkpalm.apecube.com
-## test account 19945639777 123456
+- server by C++
+- Admin by Asp+C#
+
+## live demo http://fish.game.apecube.com
+
+## video
+
 
 ## screen shots
-![主界面](screenshots/shot1.jpg)
+![主界面](screenshots/fish1.png)
 
-![主界面](screenshots/shot2.jpg)
+![主界面](screenshots/fish2.png)
 
-![主界面](screenshots/shot3.jpg)
+![主界面](screenshots/fish3.png)
+
+![主界面](screenshots/fish4.png)
+
+![主界面](screenshots/fish5.png)
 
 # contacts 
 tel（wechat）：19945639775
